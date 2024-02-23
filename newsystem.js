@@ -29,3 +29,10 @@ const Main = () => {
   src: local('IBM Plex Mono'),
     url('./assets/IBM_Plex_Mono/IBMPlexMono-Medium.ttf') format('woff');
 }
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: local('IBM Plex Mono'),
+    url('./assets/IBM_Plex_Mono/IBMPlexMono-Bold.ttf') format('woff');
+  font-weight: bold;
+}
+  //yes
